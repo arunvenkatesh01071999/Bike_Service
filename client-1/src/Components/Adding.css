@@ -1,0 +1,79 @@
+.create_maindiv{
+    background-image: linear-gradient(to left,#a9217c, #e12a94);
+    height:100vh;
+}
+.createdesc{
+    resize: none;
+    padding: 12px 20px;
+    width:250px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.createtitle{
+    width:250px;
+    border-radius: 5px;
+    border:none;
+    padding: 2px;
+}
+
+
+.create_card{
+    background-color:#84ADEA;
+    border-radius: 10px;
+    padding: 5px;
+    height:350px; 
+    box-shadow: 3px 3px 9px black;
+}
+.createbtn{
+    padding:5px 10px;
+    background-color:#dc650a;
+    border:none;
+    color:white;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top:20px;
+}
+.topic{
+    background-image: linear-gradient(to right,rgb(185, 173, 71),white);
+    color:white;
+}
+.createdate{
+    border-radius: 5px;
+    border: none;
+    padding:2px 5px;
+}
+
+.createddiv{
+    background-color: #84ADEA;
+    margin-top:10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 9px black;
+    /* display:block; */
+} 
+.deletebtn{
+    padding:5px 10px;
+    background-color:#f12e0c;
+    border:none;
+    color:white;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top:20px;
+}
+.createbtns{
+    background-color: #0dd221;
+    color:azure;
+    border-radius: 10px;
+}
+.deletebtns{
+    background-image:linear-gradient(to left,rgb(194, 217, 15),white);
+    color:black;
+    border-radius: 10px;
+    margin-left: 300px;
+}
+.deletebtns:hover{
+    background: #f12e0c;
+    /* cursor:zoom-out; */
+    color:blue;
+}
